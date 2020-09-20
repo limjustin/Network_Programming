@@ -4,7 +4,7 @@
 
 - 네트워크상의 패킷을 포착하고 분석해서 보여주는 툴
 
-![image-20200921001404558](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200921001404558.png)
+![image](https://user-images.githubusercontent.com/55044278/93714687-6c166400-fb9f-11ea-9b2d-577300bc2470.png)
 
 - 제일 상단부터 Packet List Window, Packet Details Window, Packet Bytes Window 라고 칭함
 - **Packet List Window**
