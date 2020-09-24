@@ -20,11 +20,35 @@
   - Transport Layer
   - Application Layer
 
-HTTP DNS
+<br>
 
-TCP UDP
+### Wireshark Packet Structure Capture
 
-ARP
+**TCP Packet**
+
+![image](https://user-images.githubusercontent.com/55044278/94095637-1969d000-fe5d-11ea-9e82-bc18c78e8a91.png)
+
+**DNS Packet**
+
+![image](https://user-images.githubusercontent.com/55044278/94095761-60f05c00-fe5d-11ea-9c0e-df878dd4413e.png)
+
+**UDP Packet**
+
+![image](https://user-images.githubusercontent.com/55044278/94095900-aad94200-fe5d-11ea-8272-176ed29ee344.png)
+
+**ARP Packet**
+
+![image](https://user-images.githubusercontent.com/55044278/94095947-c3e1f300-fe5d-11ea-9ee8-642fd810d0b7.png)
+
+![image](https://user-images.githubusercontent.com/55044278/94095970-d6f4c300-fe5d-11ea-8a13-31dd3d65743e.png)
+
+
+
+HTTP **DNS**
+
+**TCP UDP**
+
+**ARP**
 
 Ethernet
 
